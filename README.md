@@ -1,3 +1,8 @@
-+ vagrant + puppet
++ vagrant
 
-+ golang環境
++ docker
+
+#### TODO
+
++ puppet add
+
